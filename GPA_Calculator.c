@@ -1,11 +1,3 @@
-/*************************************************/
-/* But: Calculer la note globale numerique et    */
-/*      litterale de l'etudiant                  */
-/*                                               */
-/* Concepteur : Simon Theriault; session A20     */
-/* Date de conception:                           */
-/*************************************************/
-
 #include<stdio.h>
 int main(int argc,char *argv[])
 {
@@ -73,26 +65,3 @@ int main(int argc,char *argv[])
 	return 0;
 }
 
-/* Resultats */
-/* 	Entrez la note d'examen intra de l etudiant:80.00
-	Entrez la note d'examen final de l etudiants:82.60
-	Entrez la note des travaux pratiques de l etudiants:94.60
-	
-	
-	La note numerique 86.750000 donne un A pour l etudiant
-	
-	Entrez la note d'examen intra de l etudiant:42.20
-	Entrez la note d'examen final de l etudiants:25.90
-	Entrez la note des travaux pratiques de l etudiants:99.90
-	
-	
-	La note numerique 39.615002 donne un E pour l etudiant	
-	
-	Entrez la note d'examen intra de l etudiant:38.20
-	Entrez la note d'examen final de l etudiants:36.90
-	Entrez la note des travaux pratiques de l etudiants:32.60
-	
-	
-	La note numerique 35.505001 donne un E pour l etudiant
-*/
- 
